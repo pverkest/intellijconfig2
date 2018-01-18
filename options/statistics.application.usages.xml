@@ -1,8 +1,26 @@
 <application>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="ideaapp.started" count="1" />
-      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="2" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="1" />
+      <entry feature="execute.JUnit.Run" count="25" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="11" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="25" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.Importing" count="1" />
+      <entry feature="ide.settings.Keymap" count="7" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project Structure" count="2" />
+      <entry feature="ideaapp.started" count="3" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="2" />
+      <entry feature="spring.SpringConfigurationCheckTask.ShowFacet" count="1" />
+      <entry feature="terminal.win" count="1" />
+      <entry feature="welcome.screen.ConfigureIcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
     </counts>
   </component>
 </application>

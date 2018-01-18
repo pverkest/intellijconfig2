@@ -1,0 +1,15 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="1" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; Git" count="1" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; GitHub" count="1" />
+      <entry path="File -&gt; Project Structure..." count="1" />
+      <entry path="Refactor -&gt; Change Signature..." count="1" />
+      <entry path="Refactor -&gt; Extract -&gt; Constant..." count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; Git" count="2" />
+      <entry path="View -&gt; Tool Buttons" count="1" />
+      <entry path="View -&gt; Toolbar" count="1" />
+    </counts>
+  </component>
+</application>

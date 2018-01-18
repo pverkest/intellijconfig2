@@ -1,7 +1,58 @@
 <application>
   <component name="DimensionService">
-    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="194" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="181" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="773" y="353" />
+    <location key="SettingsEditor.0.0.1920.1080" x="442" y="84" />
+    <location key="new project wizard.0.0.1920.1080" x="623" y="61" />
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="963" y="437" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="626" y="346" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2659" y="262" />
+    <location key="SettingsEditor.1920.0.1920.1080" x="2358" y="166" />
+    <location key="GitCloneDialog.1920.0.1920.1080" x="2665" y="435" />
+    <location key="ProcessPopupWindow.1920.0.1920.1080" x="3358" y="930" />
+    <location key="#Browse_Repositories.1920.0.1920.1080" x="2459" y="176" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2546" y="346" />
+    <location key="spring file set editor.1920.0.1920.1080" x="2551" y="215" />
+    <location key="#Project_Structure.1920.0.1920.1080" x="2360" y="96" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1920.0.1920.1080" x="2610" y="276" />
+    <location key="RollbackChangesDialog.1920.0.1920.1080" x="2400" y="237" />
+    <location key="find.popup.1920.0.1920.1080" x="2593" y="126" />
+    <location key="CommitChangelistDialog2.1920.0.1920.1080" x="2281" y="126" />
+    <location key="Vcs.Push.Dialog.1920.0.1920.1080" x="2556" y="259" />
+    <location key="#build.0.0.1920.1080" x="714" y="229" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="559" y="275" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="238" />
+    <location key="#com.intellij.refactoring.replaceConstructorWithFactory.ReplaceConstructorWithFactoryDialog.0.0.1920.1080" x="802" y="436" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="546" y="246" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" x="544" y="34" />
+    <location key="StructurePopup.0.0.1920.1080" x="680" y="327" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="676" y="139" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" x="732" y="142" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080" x="724" y="273" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="636" y="259" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="671" y="237" />
+    <size key="GitCloneDialog.0.0.1920.1080" width="430" height="217" />
+    <size key="ProcessPopupWindow.1920.0.1920.1080" width="400" height="116" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1876" height="399" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1876" height="399" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1876" height="399" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1876" height="399" />
+    <size key="javadoc.popup.1920.0.1920.1080" width="707" height="405" />
+    <size key="GridCell.Tab.1.left.1920.0.1920.1080" width="1876" height="399" />
+    <size key="GridCell.Tab.1.center.1920.0.1920.1080" width="1876" height="399" />
+    <size key="GridCell.Tab.1.right.1920.0.1920.1080" width="1876" height="399" />
+    <size key="GridCell.Tab.1.bottom.1920.0.1920.1080" width="1876" height="399" />
+    <size key="find.popup.1920.0.1920.1080" width="803" height="621" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="280" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="280" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="280" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="280" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="827" height="668" />
+    <size key="StructurePopup.0.0.1920.1080" width="543" height="365" />
+    <size key="javadoc.popup.0.0.1920.1080" width="554" height="384" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="399" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="399" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="399" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="399" />
   </component>
 </application>

@@ -3,6 +3,9 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/dev/work/api" />
+        <option value="$USER_HOME$/dev/work/domain-driven-refactoring-handson/java" />
+        <option value="$USER_HOME$/dev/work/domain-driven-refactoring-handson" />
+        <option value="$USER_HOME$/IdeaProjects/api" />
       </list>
     </option>
     <option name="openPaths">
@@ -14,18 +17,52 @@
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/IdeaProjects/api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516105295305" />
+              <option name="buildTimestamp" value="1514220717944" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/dev/work/api">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-173.4127.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1516268698257" />
-              <option name="buildTimestamp" value="1514220684072" />
+              <option name="projectOpenTimestamp" value="1516268603637" />
+              <option name="buildTimestamp" value="1514220686951" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/work/domain-driven-refactoring-handson">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516126195732" />
+              <option name="buildTimestamp" value="1514220686951" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/work/domain-driven-refactoring-handson/java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516171488202" />
+              <option name="buildTimestamp" value="1514220686951" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/dev/work/domain-driven-refactoring-handson" />
   </component>
 </application>

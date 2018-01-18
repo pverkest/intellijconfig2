@@ -1,0 +1,22 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="2" />
+      <entry action="FileChooser.ShowHiddens@FileChooserDialog" count="1" />
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="2" />
+      <entry action="Maven.RunBuild@Maven Navigator Toolbar" count="6" />
+      <entry action="Maven.ShowSettings@Maven Navigator Toolbar" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="11" />
+      <entry action="Run@MainToolbar" count="11" />
+      <entry action="ShowSettings@MainToolbar" count="7" />
+      <entry action="Stop@RunnerToolbar" count="1" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="1" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$MyShowSettingsAction@JavadocInplaceSettings" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$8@RunnerToolbar" count="1" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="8" />
+      <entry action="com.intellij.openapi.vcs.ex.RollbackLineStatusRangeAction@toolbar" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
+    </counts>
+  </component>
+</application>
